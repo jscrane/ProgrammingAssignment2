@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## implements an inverse-caching matrix
+## provides a constructor function (makeCacheMatrix) 
+## and a solver function (cacheSolve)
 
 ## constructs a special matrix which caches its inverse
 
